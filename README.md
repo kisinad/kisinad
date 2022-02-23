@@ -7,6 +7,11 @@
 ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
+However, I'm also intensively exploring such topics like (among other things): 
+🔹 Node.js
+🔹 JavaScript.js
+🔹 Go.js
+
 <!--
 **kisinad/kisinad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
