@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 My name's Denis Kisina
+
+🔹 Java Developer 🔹 Software Architect
+
+### 🛠 &nbsp;Tech Stack (mostly)
+
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
 <!--
 **kisinad/kisinad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
