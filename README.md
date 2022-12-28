@@ -1,28 +1,6 @@
-### Hi there 👋 My name's Denis Kisina
+### Hi there 👋
 
-🔹 Java Developer 🔹 Software Architect
+I am a Software Engineer at [Cyber Security Works](http://cybersecurityworks.com) as a backend engineer.
 
-### 🛠 &nbsp;Tech Stack (mostly)
-
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-
-However, I'm also intensively exploring such topics like (among other things): \
-🔹 Node.js \
-🔹 JavaScript.js \
-🔹 Go.js
-
-<!--
-**kisinad/kisinad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Fast learner and eager to explore new technologies. 
+Believer in agile software development, team work and clean code. Able and willing to think outside the box.
