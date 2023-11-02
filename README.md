@@ -4,3 +4,6 @@ I am a Software Engineer and AWS Solution Architect with a strong background in 
 
 I have extensive experience contributing to autonomous, cross-functional agile teams and taking end-to-end ownership assigned activity from design to build to delivery.
 
+I started to blog at [deniskisina.dev](deniskisina.dev)
+
+
